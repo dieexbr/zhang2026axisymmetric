@@ -5,7 +5,6 @@
 %   -> g_w, Re0, chi, S, S*L, alpha, R
 %
 % Requires: pack, unpack, residual_vec, numeric_jacobian, solve_kellerbox
-% (as defined in lambda_kellerbox_general.m)
 
 clear; clc; clear all
 
