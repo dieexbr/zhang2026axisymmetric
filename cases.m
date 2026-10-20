@@ -1,6 +1,6 @@
 %% cases.m
 % Physical parameters for running the paper's NS
-% cases (Figs 10, 11, 12, 13 of the current draft), using the validated
+% cases (Figs 10, 11, 12, 13), using the validated
 % Keller-box boundary-layer solution (lambda, delta0, Lscr, Mbar for
 % n=0.76, Pr=0.72, gamma=1.4).
 %
@@ -11,8 +11,7 @@
 %
 % FIG.12 (R-sweep, alpha=-12, adiabatic): R_scale IS the tested
 % variable, so it cannot be arbitrarily changed. Only R=4,6,8,10 are
-% included, matching the four cases shown in the manuscript. R=4 is
-% therefore also used as the default expansion radius for Figs 11 and 13.
+% included. R=4 is therefore also used as the default expansion radius for Figs 11 and 13.
 
 clear; clc
 
