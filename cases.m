@@ -52,7 +52,7 @@ R_cylinder_R4_mm = R_expansion * ...
 fprintf('Expansion x-domain = [%.1f, %.1f] mm\n', x_domain_mm(1), x_domain_mm(2));
 fprintf('Adiabatic R=4 physical radius = %.6f mm\n\n', R_cylinder_R4_mm);
 
-%% ---------------- Compression case (Fig.10): UNCHANGED ----------------
+%% ---------------- Compression case (Fig.10): ----------------
 compression_cases = {
     'Fig.10 (compression)', 4.0,   0.0
     'Fig.10 (compression)', 4.0,  -2.5
